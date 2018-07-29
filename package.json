@@ -1,12 +1,12 @@
 {
-  "name": "expensify",
+  "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Fayvor George",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phavor/expensify"
+    "url": "https://github.com/phavor/portfolio"
   },
   "scripts": {
     "serve": "live-server public/",
